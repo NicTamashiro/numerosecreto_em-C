@@ -71,7 +71,7 @@ int main (){
     }
 
     if (acertou){
-        printf("Voce ganou!\n");
+        printf("Voce ganhou!\n");
         printf("Voce acertou com %d tentativas\n", tentativas);
         printf("Total de pontos: %.1f\n", pontos);
     } else {
